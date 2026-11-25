@@ -1,0 +1,376 @@
+{
+  "depot": "HUB",
+  "bag_capacity": 53,
+  "parcels": [
+    {
+      "id": "P01",
+      "weight": 9,
+      "value": 64,
+      "destination": "D10"
+    },
+    {
+      "id": "P02",
+      "weight": 6,
+      "value": 28,
+      "destination": "D5"
+    },
+    {
+      "id": "P03",
+      "weight": 3,
+      "value": 47,
+      "destination": "D10"
+    },
+    {
+      "id": "P04",
+      "weight": 8,
+      "value": 53,
+      "destination": "D11"
+    },
+    {
+      "id": "P05",
+      "weight": 3,
+      "value": 86,
+      "destination": "D3"
+    },
+    {
+      "id": "P06",
+      "weight": 9,
+      "value": 74,
+      "destination": "D3"
+    },
+    {
+      "id": "P07",
+      "weight": 8,
+      "value": 21,
+      "destination": "D1"
+    },
+    {
+      "id": "P08",
+      "weight": 3,
+      "value": 59,
+      "destination": "D11"
+    },
+    {
+      "id": "P09",
+      "weight": 8,
+      "value": 74,
+      "destination": "D10"
+    },
+    {
+      "id": "P10",
+      "weight": 3,
+      "value": 18,
+      "destination": "D8"
+    },
+    {
+      "id": "P11",
+      "weight": 2,
+      "value": 39,
+      "destination": "D10"
+    },
+    {
+      "id": "P12",
+      "weight": 3,
+      "value": 96,
+      "destination": "D1"
+    },
+    {
+      "id": "P13",
+      "weight": 1,
+      "value": 98,
+      "destination": "D2"
+    },
+    {
+      "id": "P14",
+      "weight": 8,
+      "value": 64,
+      "destination": "D1"
+    },
+    {
+      "id": "P15",
+      "weight": 6,
+      "value": 39,
+      "destination": "D9"
+    },
+    {
+      "id": "P16",
+      "weight": 2,
+      "value": 41,
+      "destination": "D7"
+    },
+    {
+      "id": "P17",
+      "weight": 8,
+      "value": 19,
+      "destination": "D9"
+    },
+    {
+      "id": "P18",
+      "weight": 5,
+      "value": 69,
+      "destination": "D8"
+    },
+    {
+      "id": "P19",
+      "weight": 4,
+      "value": 98,
+      "destination": "D4"
+    },
+    {
+      "id": "P20",
+      "weight": 8,
+      "value": 92,
+      "destination": "D3"
+    }
+  ],
+  "graph": {
+    "HUB": [
+      {
+        "to": "D1",
+        "cost": 12
+      },
+      {
+        "to": "D3",
+        "cost": 5
+      },
+      {
+        "to": "D2",
+        "cost": 5
+      },
+      {
+        "to": "D6",
+        "cost": 10
+      },
+      {
+        "to": "D9",
+        "cost": 8
+      },
+      {
+        "to": "D5",
+        "cost": 4
+      }
+    ],
+    "D1": [
+      {
+        "to": "HUB",
+        "cost": 12
+      },
+      {
+        "to": "D2",
+        "cost": 8
+      },
+      {
+        "to": "D3",
+        "cost": 20
+      }
+    ],
+    "D2": [
+      {
+        "to": "D1",
+        "cost": 8
+      },
+      {
+        "to": "HUB",
+        "cost": 5
+      },
+      {
+        "to": "D5",
+        "cost": 9
+      },
+      {
+        "to": "D6",
+        "cost": 9
+      }
+    ],
+    "D3": [
+      {
+        "to": "HUB",
+        "cost": 5
+      },
+      {
+        "to": "D4",
+        "cost": 2
+      },
+      {
+        "to": "D5",
+        "cost": 9
+      },
+      {
+        "to": "D6",
+        "cost": 2
+      },
+      {
+        "to": "D8",
+        "cost": 5
+      },
+      {
+        "to": "D11",
+        "cost": 5
+      },
+      {
+        "to": "D7",
+        "cost": 13
+      },
+      {
+        "to": "D1",
+        "cost": 20
+      }
+    ],
+    "D4": [
+      {
+        "to": "D3",
+        "cost": 2
+      },
+      {
+        "to": "D7",
+        "cost": 7
+      },
+      {
+        "to": "D11",
+        "cost": 12
+      }
+    ],
+    "D5": [
+      {
+        "to": "D3",
+        "cost": 9
+      },
+      {
+        "to": "D7",
+        "cost": 6
+      },
+      {
+        "to": "D2",
+        "cost": 9
+      },
+      {
+        "to": "D10",
+        "cost": 8
+      },
+      {
+        "to": "D9",
+        "cost": 13
+      },
+      {
+        "to": "D8",
+        "cost": 13
+      },
+      {
+        "to": "HUB",
+        "cost": 4
+      }
+    ],
+    "D6": [
+      {
+        "to": "D3",
+        "cost": 2
+      },
+      {
+        "to": "D7",
+        "cost": 3
+      },
+      {
+        "to": "HUB",
+        "cost": 10
+      },
+      {
+        "to": "D11",
+        "cost": 18
+      },
+      {
+        "to": "D2",
+        "cost": 9
+      }
+    ],
+    "D7": [
+      {
+        "to": "D4",
+        "cost": 7
+      },
+      {
+        "to": "D9",
+        "cost": 12
+      },
+      {
+        "to": "D5",
+        "cost": 6
+      },
+      {
+        "to": "D6",
+        "cost": 3
+      },
+      {
+        "to": "D11",
+        "cost": 10
+      },
+      {
+        "to": "D3",
+        "cost": 13
+      }
+    ],
+    "D8": [
+      {
+        "to": "D3",
+        "cost": 5
+      },
+      {
+        "to": "D5",
+        "cost": 13
+      }
+    ],
+    "D9": [
+      {
+        "to": "D7",
+        "cost": 12
+      },
+      {
+        "to": "D10",
+        "cost": 14
+      },
+      {
+        "to": "HUB",
+        "cost": 8
+      },
+      {
+        "to": "D5",
+        "cost": 13
+      }
+    ],
+    "D10": [
+      {
+        "to": "D9",
+        "cost": 14
+      },
+      {
+        "to": "D11",
+        "cost": 10
+      },
+      {
+        "to": "D5",
+        "cost": 8
+      }
+    ],
+    "D11": [
+      {
+        "to": "D10",
+        "cost": 10
+      },
+      {
+        "to": "D7",
+        "cost": 10
+      },
+      {
+        "to": "D3",
+        "cost": 5
+      },
+      {
+        "to": "D4",
+        "cost": 12
+      },
+      {
+        "to": "D6",
+        "cost": 18
+      }
+    ]
+  }
+}

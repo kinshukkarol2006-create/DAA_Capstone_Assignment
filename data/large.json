@@ -1,0 +1,894 @@
+{
+  "depot": "HUB",
+  "bag_capacity": 145,
+  "parcels": [
+    {
+      "id": "P01",
+      "weight": 7,
+      "value": 39,
+      "destination": "D2"
+    },
+    {
+      "id": "P02",
+      "weight": 5,
+      "value": 35,
+      "destination": "D9"
+    },
+    {
+      "id": "P03",
+      "weight": 9,
+      "value": 37,
+      "destination": "D13"
+    },
+    {
+      "id": "P04",
+      "weight": 6,
+      "value": 30,
+      "destination": "D6"
+    },
+    {
+      "id": "P05",
+      "weight": 8,
+      "value": 98,
+      "destination": "D9"
+    },
+    {
+      "id": "P06",
+      "weight": 9,
+      "value": 61,
+      "destination": "D24"
+    },
+    {
+      "id": "P07",
+      "weight": 3,
+      "value": 69,
+      "destination": "D11"
+    },
+    {
+      "id": "P08",
+      "weight": 9,
+      "value": 38,
+      "destination": "D19"
+    },
+    {
+      "id": "P09",
+      "weight": 7,
+      "value": 24,
+      "destination": "D1"
+    },
+    {
+      "id": "P10",
+      "weight": 1,
+      "value": 45,
+      "destination": "D16"
+    },
+    {
+      "id": "P11",
+      "weight": 6,
+      "value": 63,
+      "destination": "D18"
+    },
+    {
+      "id": "P12",
+      "weight": 9,
+      "value": 43,
+      "destination": "D15"
+    },
+    {
+      "id": "P13",
+      "weight": 2,
+      "value": 74,
+      "destination": "D10"
+    },
+    {
+      "id": "P14",
+      "weight": 5,
+      "value": 32,
+      "destination": "D13"
+    },
+    {
+      "id": "P15",
+      "weight": 8,
+      "value": 73,
+      "destination": "D17"
+    },
+    {
+      "id": "P16",
+      "weight": 3,
+      "value": 99,
+      "destination": "D5"
+    },
+    {
+      "id": "P17",
+      "weight": 9,
+      "value": 45,
+      "destination": "D1"
+    },
+    {
+      "id": "P18",
+      "weight": 2,
+      "value": 78,
+      "destination": "D6"
+    },
+    {
+      "id": "P19",
+      "weight": 2,
+      "value": 29,
+      "destination": "D15"
+    },
+    {
+      "id": "P20",
+      "weight": 6,
+      "value": 87,
+      "destination": "D22"
+    },
+    {
+      "id": "P21",
+      "weight": 7,
+      "value": 58,
+      "destination": "D1"
+    },
+    {
+      "id": "P22",
+      "weight": 2,
+      "value": 30,
+      "destination": "D9"
+    },
+    {
+      "id": "P23",
+      "weight": 8,
+      "value": 31,
+      "destination": "D3"
+    },
+    {
+      "id": "P24",
+      "weight": 7,
+      "value": 65,
+      "destination": "D21"
+    },
+    {
+      "id": "P25",
+      "weight": 6,
+      "value": 18,
+      "destination": "D17"
+    },
+    {
+      "id": "P26",
+      "weight": 5,
+      "value": 46,
+      "destination": "D15"
+    },
+    {
+      "id": "P27",
+      "weight": 8,
+      "value": 58,
+      "destination": "D21"
+    },
+    {
+      "id": "P28",
+      "weight": 2,
+      "value": 94,
+      "destination": "D24"
+    },
+    {
+      "id": "P29",
+      "weight": 1,
+      "value": 23,
+      "destination": "D4"
+    },
+    {
+      "id": "P30",
+      "weight": 6,
+      "value": 33,
+      "destination": "D4"
+    },
+    {
+      "id": "P31",
+      "weight": 10,
+      "value": 33,
+      "destination": "D22"
+    },
+    {
+      "id": "P32",
+      "weight": 10,
+      "value": 95,
+      "destination": "D7"
+    },
+    {
+      "id": "P33",
+      "weight": 4,
+      "value": 27,
+      "destination": "D3"
+    },
+    {
+      "id": "P34",
+      "weight": 5,
+      "value": 49,
+      "destination": "D20"
+    },
+    {
+      "id": "P35",
+      "weight": 10,
+      "value": 87,
+      "destination": "D10"
+    },
+    {
+      "id": "P36",
+      "weight": 7,
+      "value": 91,
+      "destination": "D14"
+    },
+    {
+      "id": "P37",
+      "weight": 3,
+      "value": 41,
+      "destination": "D12"
+    },
+    {
+      "id": "P38",
+      "weight": 8,
+      "value": 63,
+      "destination": "D21"
+    },
+    {
+      "id": "P39",
+      "weight": 3,
+      "value": 71,
+      "destination": "D13"
+    },
+    {
+      "id": "P40",
+      "weight": 6,
+      "value": 93,
+      "destination": "D12"
+    },
+    {
+      "id": "P41",
+      "weight": 4,
+      "value": 56,
+      "destination": "D24"
+    },
+    {
+      "id": "P42",
+      "weight": 5,
+      "value": 60,
+      "destination": "D15"
+    },
+    {
+      "id": "P43",
+      "weight": 3,
+      "value": 42,
+      "destination": "D17"
+    },
+    {
+      "id": "P44",
+      "weight": 6,
+      "value": 60,
+      "destination": "D13"
+    },
+    {
+      "id": "P45",
+      "weight": 10,
+      "value": 52,
+      "destination": "D2"
+    },
+    {
+      "id": "P46",
+      "weight": 6,
+      "value": 49,
+      "destination": "D20"
+    },
+    {
+      "id": "P47",
+      "weight": 9,
+      "value": 65,
+      "destination": "D21"
+    },
+    {
+      "id": "P48",
+      "weight": 3,
+      "value": 90,
+      "destination": "D21"
+    },
+    {
+      "id": "P49",
+      "weight": 7,
+      "value": 17,
+      "destination": "D16"
+    },
+    {
+      "id": "P50",
+      "weight": 3,
+      "value": 80,
+      "destination": "D21"
+    }
+  ],
+  "graph": {
+    "HUB": [
+      {
+        "to": "D1",
+        "cost": 5
+      },
+      {
+        "to": "D2",
+        "cost": 3
+      },
+      {
+        "to": "D10",
+        "cost": 11
+      },
+      {
+        "to": "D14",
+        "cost": 15
+      },
+      {
+        "to": "D22",
+        "cost": 4
+      },
+      {
+        "to": "D16",
+        "cost": 11
+      },
+      {
+        "to": "D4",
+        "cost": 2
+      },
+      {
+        "to": "D19",
+        "cost": 15
+      }
+    ],
+    "D1": [
+      {
+        "to": "HUB",
+        "cost": 5
+      },
+      {
+        "to": "D6",
+        "cost": 8
+      },
+      {
+        "to": "D8",
+        "cost": 6
+      },
+      {
+        "to": "D11",
+        "cost": 13
+      },
+      {
+        "to": "D17",
+        "cost": 5
+      },
+      {
+        "to": "D12",
+        "cost": 12
+      },
+      {
+        "to": "D10",
+        "cost": 17
+      }
+    ],
+    "D2": [
+      {
+        "to": "HUB",
+        "cost": 3
+      },
+      {
+        "to": "D3",
+        "cost": 11
+      },
+      {
+        "to": "D4",
+        "cost": 11
+      },
+      {
+        "to": "D15",
+        "cost": 7
+      },
+      {
+        "to": "D20",
+        "cost": 10
+      }
+    ],
+    "D3": [
+      {
+        "to": "D2",
+        "cost": 11
+      },
+      {
+        "to": "D7",
+        "cost": 14
+      },
+      {
+        "to": "D22",
+        "cost": 13
+      },
+      {
+        "to": "D21",
+        "cost": 7
+      },
+      {
+        "to": "D10",
+        "cost": 6
+      }
+    ],
+    "D4": [
+      {
+        "to": "D2",
+        "cost": 11
+      },
+      {
+        "to": "D5",
+        "cost": 8
+      },
+      {
+        "to": "D19",
+        "cost": 4
+      },
+      {
+        "to": "D13",
+        "cost": 8
+      },
+      {
+        "to": "D21",
+        "cost": 6
+      },
+      {
+        "to": "D16",
+        "cost": 19
+      },
+      {
+        "to": "HUB",
+        "cost": 2
+      }
+    ],
+    "D5": [
+      {
+        "to": "D4",
+        "cost": 8
+      },
+      {
+        "to": "D22",
+        "cost": 4
+      },
+      {
+        "to": "D8",
+        "cost": 8
+      },
+      {
+        "to": "D18",
+        "cost": 20
+      },
+      {
+        "to": "D23",
+        "cost": 12
+      }
+    ],
+    "D6": [
+      {
+        "to": "D1",
+        "cost": 8
+      },
+      {
+        "to": "D12",
+        "cost": 4
+      },
+      {
+        "to": "D18",
+        "cost": 7
+      },
+      {
+        "to": "D20",
+        "cost": 11
+      },
+      {
+        "to": "D8",
+        "cost": 18
+      },
+      {
+        "to": "D14",
+        "cost": 18
+      }
+    ],
+    "D7": [
+      {
+        "to": "D3",
+        "cost": 14
+      },
+      {
+        "to": "D13",
+        "cost": 6
+      },
+      {
+        "to": "D23",
+        "cost": 15
+      },
+      {
+        "to": "D16",
+        "cost": 2
+      },
+      {
+        "to": "D11",
+        "cost": 16
+      }
+    ],
+    "D8": [
+      {
+        "to": "D1",
+        "cost": 6
+      },
+      {
+        "to": "D9",
+        "cost": 10
+      },
+      {
+        "to": "D24",
+        "cost": 10
+      },
+      {
+        "to": "D17",
+        "cost": 6
+      },
+      {
+        "to": "D5",
+        "cost": 8
+      },
+      {
+        "to": "D6",
+        "cost": 18
+      },
+      {
+        "to": "D10",
+        "cost": 12
+      },
+      {
+        "to": "D18",
+        "cost": 9
+      },
+      {
+        "to": "D12",
+        "cost": 19
+      },
+      {
+        "to": "D20",
+        "cost": 10
+      }
+    ],
+    "D9": [
+      {
+        "to": "D8",
+        "cost": 10
+      },
+      {
+        "to": "D15",
+        "cost": 12
+      },
+      {
+        "to": "D21",
+        "cost": 14
+      }
+    ],
+    "D10": [
+      {
+        "to": "HUB",
+        "cost": 11
+      },
+      {
+        "to": "D3",
+        "cost": 6
+      },
+      {
+        "to": "D1",
+        "cost": 17
+      },
+      {
+        "to": "D8",
+        "cost": 12
+      },
+      {
+        "to": "D21",
+        "cost": 11
+      }
+    ],
+    "D11": [
+      {
+        "to": "D1",
+        "cost": 13
+      },
+      {
+        "to": "D23",
+        "cost": 4
+      },
+      {
+        "to": "D7",
+        "cost": 16
+      }
+    ],
+    "D12": [
+      {
+        "to": "D6",
+        "cost": 4
+      },
+      {
+        "to": "D1",
+        "cost": 12
+      },
+      {
+        "to": "D21",
+        "cost": 3
+      },
+      {
+        "to": "D13",
+        "cost": 4
+      },
+      {
+        "to": "D8",
+        "cost": 19
+      }
+    ],
+    "D13": [
+      {
+        "to": "D7",
+        "cost": 6
+      },
+      {
+        "to": "D16",
+        "cost": 6
+      },
+      {
+        "to": "D22",
+        "cost": 2
+      },
+      {
+        "to": "D4",
+        "cost": 8
+      },
+      {
+        "to": "D12",
+        "cost": 4
+      }
+    ],
+    "D14": [
+      {
+        "to": "HUB",
+        "cost": 15
+      },
+      {
+        "to": "D16",
+        "cost": 13
+      },
+      {
+        "to": "D21",
+        "cost": 15
+      },
+      {
+        "to": "D6",
+        "cost": 18
+      }
+    ],
+    "D15": [
+      {
+        "to": "D9",
+        "cost": 12
+      },
+      {
+        "to": "D20",
+        "cost": 7
+      },
+      {
+        "to": "D2",
+        "cost": 7
+      },
+      {
+        "to": "D16",
+        "cost": 6
+      },
+      {
+        "to": "D17",
+        "cost": 19
+      }
+    ],
+    "D16": [
+      {
+        "to": "D13",
+        "cost": 6
+      },
+      {
+        "to": "D20",
+        "cost": 10
+      },
+      {
+        "to": "D7",
+        "cost": 2
+      },
+      {
+        "to": "D19",
+        "cost": 2
+      },
+      {
+        "to": "D15",
+        "cost": 6
+      },
+      {
+        "to": "D14",
+        "cost": 13
+      },
+      {
+        "to": "HUB",
+        "cost": 11
+      },
+      {
+        "to": "D4",
+        "cost": 19
+      }
+    ],
+    "D17": [
+      {
+        "to": "D1",
+        "cost": 5
+      },
+      {
+        "to": "D8",
+        "cost": 6
+      },
+      {
+        "to": "D15",
+        "cost": 19
+      }
+    ],
+    "D18": [
+      {
+        "to": "D6",
+        "cost": 7
+      },
+      {
+        "to": "D20",
+        "cost": 9
+      },
+      {
+        "to": "D5",
+        "cost": 20
+      },
+      {
+        "to": "D8",
+        "cost": 9
+      }
+    ],
+    "D19": [
+      {
+        "to": "D4",
+        "cost": 4
+      },
+      {
+        "to": "D16",
+        "cost": 2
+      },
+      {
+        "to": "HUB",
+        "cost": 15
+      }
+    ],
+    "D20": [
+      {
+        "to": "D6",
+        "cost": 11
+      },
+      {
+        "to": "D16",
+        "cost": 10
+      },
+      {
+        "to": "D22",
+        "cost": 6
+      },
+      {
+        "to": "D15",
+        "cost": 7
+      },
+      {
+        "to": "D18",
+        "cost": 9
+      },
+      {
+        "to": "D21",
+        "cost": 2
+      },
+      {
+        "to": "D2",
+        "cost": 10
+      },
+      {
+        "to": "D24",
+        "cost": 4
+      },
+      {
+        "to": "D8",
+        "cost": 10
+      }
+    ],
+    "D21": [
+      {
+        "to": "D9",
+        "cost": 14
+      },
+      {
+        "to": "D3",
+        "cost": 7
+      },
+      {
+        "to": "D20",
+        "cost": 2
+      },
+      {
+        "to": "D12",
+        "cost": 3
+      },
+      {
+        "to": "D14",
+        "cost": 15
+      },
+      {
+        "to": "D4",
+        "cost": 6
+      },
+      {
+        "to": "D10",
+        "cost": 11
+      }
+    ],
+    "D22": [
+      {
+        "to": "D3",
+        "cost": 13
+      },
+      {
+        "to": "D24",
+        "cost": 13
+      },
+      {
+        "to": "D20",
+        "cost": 6
+      },
+      {
+        "to": "D5",
+        "cost": 4
+      },
+      {
+        "to": "D13",
+        "cost": 2
+      },
+      {
+        "to": "HUB",
+        "cost": 4
+      }
+    ],
+    "D23": [
+      {
+        "to": "D7",
+        "cost": 15
+      },
+      {
+        "to": "D11",
+        "cost": 4
+      },
+      {
+        "to": "D5",
+        "cost": 12
+      }
+    ],
+    "D24": [
+      {
+        "to": "D22",
+        "cost": 13
+      },
+      {
+        "to": "D8",
+        "cost": 10
+      },
+      {
+        "to": "D20",
+        "cost": 4
+      }
+    ]
+  }
+}

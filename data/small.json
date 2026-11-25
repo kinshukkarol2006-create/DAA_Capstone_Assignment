@@ -1,0 +1,102 @@
+{
+  "depot": "HUB",
+  "bag_capacity": 13,
+  "parcels": [
+    {
+      "id": "P01",
+      "weight": 8,
+      "value": 53,
+      "destination": "D2"
+    },
+    {
+      "id": "P02",
+      "weight": 2,
+      "value": 98,
+      "destination": "D3"
+    },
+    {
+      "id": "P03",
+      "weight": 5,
+      "value": 65,
+      "destination": "D4"
+    },
+    {
+      "id": "P04",
+      "weight": 4,
+      "value": 69,
+      "destination": "D1"
+    },
+    {
+      "id": "P05",
+      "weight": 7,
+      "value": 100,
+      "destination": "D4"
+    },
+    {
+      "id": "P06",
+      "weight": 1,
+      "value": 74,
+      "destination": "D2"
+    }
+  ],
+  "graph": {
+    "HUB": [
+      {
+        "to": "D1",
+        "cost": 10
+      },
+      {
+        "to": "D3",
+        "cost": 12
+      }
+    ],
+    "D1": [
+      {
+        "to": "HUB",
+        "cost": 10
+      },
+      {
+        "to": "D2",
+        "cost": 9
+      },
+      {
+        "to": "D4",
+        "cost": 11
+      },
+      {
+        "to": "D3",
+        "cost": 12
+      }
+    ],
+    "D2": [
+      {
+        "to": "D1",
+        "cost": 9
+      },
+      {
+        "to": "D3",
+        "cost": 8
+      }
+    ],
+    "D3": [
+      {
+        "to": "HUB",
+        "cost": 12
+      },
+      {
+        "to": "D1",
+        "cost": 12
+      },
+      {
+        "to": "D2",
+        "cost": 8
+      }
+    ],
+    "D4": [
+      {
+        "to": "D1",
+        "cost": 11
+      }
+    ]
+  }
+}

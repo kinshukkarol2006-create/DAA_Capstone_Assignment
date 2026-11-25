@@ -1,0 +1,58 @@
+[
+  {
+    "dataset": "small",
+    "repeats": 5,
+    "avg_sort_ms": 0.0018250000000000904,
+    "avg_dp_ms": 0.01221700000000013,
+    "avg_route_ms": 0.024158399999999608,
+    "avg_total_ms": 0.038616599999999335,
+    "num_parcels": 6,
+    "num_nodes": 5,
+    "bag_capacity": 13,
+    "packed_weight": 12,
+    "max_value": 306,
+    "route_cost": 71.0
+  },
+  {
+    "dataset": "medium",
+    "repeats": 5,
+    "avg_sort_ms": 0.003758400000000023,
+    "avg_dp_ms": 0.1256165999999996,
+    "avg_route_ms": 0.11357520000000003,
+    "avg_total_ms": 0.24333340000000056,
+    "num_parcels": 20,
+    "num_nodes": 12,
+    "bag_capacity": 53,
+    "packed_weight": 53,
+    "max_value": 881,
+    "route_cost": 83.0
+  },
+  {
+    "dataset": "large",
+    "repeats": 5,
+    "avg_sort_ms": 0.009700000000001027,
+    "avg_dp_ms": 0.8421915999999994,
+    "avg_route_ms": 0.5540330000000007,
+    "avg_total_ms": 1.4062585999999997,
+    "num_parcels": 50,
+    "num_nodes": 25,
+    "bag_capacity": 145,
+    "packed_weight": 145,
+    "max_value": 2036,
+    "route_cost": 204.0
+  },
+  {
+    "dataset": "xlarge (100p, 40n)",
+    "repeats": 5,
+    "avg_sort_ms": 0.018666800000000094,
+    "avg_dp_ms": 3.2513499999999995,
+    "avg_route_ms": 1.3402746000000008,
+    "avg_total_ms": 4.610741599999997,
+    "num_parcels": 100,
+    "num_nodes": 40,
+    "bag_capacity": 288,
+    "packed_weight": 288,
+    "max_value": 4180,
+    "route_cost": 325.0
+  }
+]

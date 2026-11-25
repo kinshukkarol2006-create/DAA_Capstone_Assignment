@@ -1,0 +1,15 @@
+MINI-COURIER PLANNER PIPELINE
+==============================
+[Input Dataset: parcels, bag_capacity, depot, graph]
+       |
+       v
+1. Sorting (O(n log n)) ---------> Rank parcels by value/weight, value, or weight
+       |
+       v
+2. 0/1 Knapsack DP (O(n * W)) ---> Optimal bag selection + DP table backtracking
+       |
+       v
+3. Dijkstra + NN TSP ------------> Shortest paths + greedy delivery stop ordering
+       |
+       v
+[Output: Selected Parcels, Ordered Route, Total Cost, Runtime Metrics]
